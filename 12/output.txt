@@ -1,0 +1,5 @@
+Accuracy = 0.0001
+Initial approximation = [ 1. -1.]
+Amount of iterations = 6
+Solution: [1.00000000e+00 4.46815995e-15]
+Discrepancy: 3.087913141609844e-14

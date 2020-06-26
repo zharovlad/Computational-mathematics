@@ -1,0 +1,16 @@
+step 0.1
+left_rectangle 7.410000000000002
+right_rectangle 8.610000000000003
+middle_rectangle 7.995000000000003
+trapezoid 8.010000000000002
+Simpson 8.000000000000002
+
+accuracy 1e-05
+middle_rectangle 7.999992370605469
+amount of steps 512
+
+trapezoid 8.000003814697266
+amount of steps 1024
+
+Simpson 8.0
+amount of steps 2

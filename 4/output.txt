@@ -1,0 +1,33 @@
+Matrix:
+-1.00000       -6.00000       
+2.00000        6.00000        
+
+Eps: 1e-10
+
+Vector x0:
+x1 = 1.00000
+x2 = 2.00000
+
+Max eigenvalue: 
+-1.3556800126934831e-10
+
+Appropriate eigenvector:
+e_1 = -2.49615
+e_2 = 1.66410
+Amount of iteration: 57
+
+Min eigenvalue: 
+1.3556977762618772e-10
+
+Appropriate eigenvector:
+e_1 = -2.49615
+e_2 = 1.66410
+Amount of iteration: 57
+
+Second modulus of eigenvalue: -1.3557066580460742e-10
+
+Appropriate eigenvector:
+e2_1 = -2.49615
+e2_2 = 1.66410
+
+Amount of iteration: 57

@@ -1,0 +1,17 @@
+System of linear equations: 
+3.00000        4.00000        1.00000        | 4.00000
+0.00000        4.00000        1.00000        | 5.00000
+1.00000        1.00000        2.00000        | 4.00000
+Eps = 1e-10
+
+Method Jacobi: 
+Amount of iterations is 74
+xj1 = -0.33333
+xj2 = 0.80952
+xj3 = 1.76190
+
+Method Zeidel: 
+Amount of iterations is 27
+xz1 = -0.33333
+xz2 = 0.80952
+xz3 = 1.76190
